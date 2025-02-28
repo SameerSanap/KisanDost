@@ -129,7 +129,6 @@ export default function SignUp() {
                 </Link>
               </Text>
             </View>
-
             <StatusBar style="light" />
           </ScrollView>
         </KeyboardAvoidingView>
